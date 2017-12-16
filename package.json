@@ -1,0 +1,27 @@
+{
+  "name": "automata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bbpink/automata.git"
+  },
+  "author": "bbpink",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbpink/automata/issues"
+  },
+  "homepage": "https://github.com/bbpink/automata#readme",
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "levelup": "*",
+    "node-sass": "*",
+    "twig": "*",
+    "node-cron": "*"
+  }
+}
